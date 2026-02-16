@@ -1,5 +1,8 @@
 # 💫 About Me:
-I m currently working on bruteforce and other cybersecurity targets <br>i have previously worked on blockchain and power bi based projects <br>i have some unooficial projects also done with experimental featues and other languages<br>
+I’m a developer focused on cybersecurity, blockchain, and data-driven applications.  
+I enjoy building practical systems that solve real-world problems and experimenting with new technologies along the way.
+
+My work blends security, backend engineering, and analytics, and I’m especially interested in how decentralized tech and automation can improve trust, verification, and decision-making.<br>
 
 
 ## 🌐 Socials:
